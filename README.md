@@ -1,4 +1,4 @@
-# Indoor Scene Classification — MIT67
+# Indoor Scene Classification - MIT67
 
 This project focuses on indoor scene classification using the MIT Indoor67 dataset.  
 Indoor scene recognition is challenging due to high intra-class variability, clutter and reliance on object-level cues rather than just global layouts.  
