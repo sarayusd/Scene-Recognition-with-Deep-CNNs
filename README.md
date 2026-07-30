@@ -15,18 +15,20 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 - scikit-learn
 
 ---
-## 🎥 Demo
+## Application Demo
 
 <p align="center">
-<img src="demo/demo.gif" width="900">
+  <a href="tests/results/demo.mp4">
+    <img
+      src="https://img.shields.io/badge/Watch%20Application%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+      alt="Watch Streamlit application demo"
+    >
+  </a>
 </p>
 
 <p align="center">
-<a href="tests/results/demo.mp4">
-<img src="https://img.shields.io/badge/▶️%20Watch%20Full%20Demo-blue?style=for-the-badge">
-</a>
+  Upload an indoor image, run PyTorch inference, and review the model's top scene predictions.
 </p>
-
 ---
 ## Features
 
