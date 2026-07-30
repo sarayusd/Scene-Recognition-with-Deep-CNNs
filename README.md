@@ -4,6 +4,21 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 
 ---
 
+## 🎥 Application Demo
+
+The demo shows the complete inference workflow: uploading an indoor scene image, running the trained PyTorch model, and displaying the top predicted scene categories with confidence scores.
+
+https://github.com/sarayusd/Scene-Recognition-with-Deep-CNNs/blob/main/tests/results/demo.mp4
+
+---
+## Features
+
+- Upload and classify indoor scene images
+- PyTorch-based model inference
+- Top-K predictions with confidence scores
+- Modular preprocessing and inference pipeline
+- Interactive Streamlit interface
+---
 ## Technologies
 
 - Python
@@ -13,25 +28,7 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 - NumPy
 - Pandas
 - scikit-learn
-
 ---
-<div align="center" style="margin: 20px 0;">
-  <a href="https://raw.githubusercontent.com/sarayusd/Scene-Recognition-with-Deep-CNNs/main/tests/results/demo.mp4"
-     target="_blank"
-     style="text-decoration:none; font-size:18px;">
-    ▶️ Watch Demo
-  </a>
-</div>
----
-## Features
-
-- Interactive Streamlit application for image classification
-- Modular PyTorch inference pipeline
-- Knowledge distillation for lightweight deployment
-- Model evaluation with accuracy, Macro F1, and confusion matrix
-- Error analysis and misclassification visualization
----
-
 ## Dataset
 
 - **Dataset:** MIT Indoor67
