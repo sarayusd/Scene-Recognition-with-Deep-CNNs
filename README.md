@@ -15,20 +15,13 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 - scikit-learn
 
 ---
-## Application Demo
-
-<p align="center">
-  <a href="tests/results/demo.mp4">
-    <img
-      src="https://img.shields.io/badge/Watch%20Application%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
-      alt="Watch Streamlit application demo"
-    >
+<div align="center" style="margin: 20px 0;">
+  <a href="https://raw.githubusercontent.com/sarayusd/Scene-Recognition-with-Deep-CNNs/main/tests/results/demo.mp4"
+     target="_blank"
+     style="text-decoration:none; font-size:18px;">
+    ▶️ Watch Demo
   </a>
-</p>
-
-<p align="center">
-  Upload an indoor image, run PyTorch inference, and review the model's top scene predictions.
-</p>
+</div>
 ---
 ## Features
 
