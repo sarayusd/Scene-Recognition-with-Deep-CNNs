@@ -17,11 +17,8 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 ---
 ## 🎥 Demo
 
-<p align="center">
-  <a href="tests/results/demo.mov">
-    <img src="https://img.shields.io/badge/▶️-Watch%20Demo-blue?style=for-the-badge" alt="Watch Demo">
-  </a>
-</p>
+[![Streamlit Demo](demo/demo.png)](tests/results/demo.mp4)
+
 ---
 ## Features
 
