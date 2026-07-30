@@ -16,11 +16,9 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 
 ---
 
-## Demo
+## 🎥 Demo
 
-![Streamlit Demo](demo/demo.gif)
-
-Full video: [streamlit_demo.mov](demo/streamlit_demo.mov)
+▶️ **[Watch the Streamlit Demo](tests/results/streamlit_demo.mov)**
 
 ---
 ## Features
