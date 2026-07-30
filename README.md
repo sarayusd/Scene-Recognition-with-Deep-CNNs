@@ -15,10 +15,13 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 - scikit-learn
 
 ---
+<h2 align="center">🎥 Demo</h2>
 
-## 🎥 Demo
-
-▶️ **[Watch the Streamlit Demo](tests/results/streamlit_demo.mov)**
+<p align="center">
+  <a href="tests/results/streamlit_demo.mov">
+    <img src="https://img.shields.io/badge/▶️-Watch%20Demo-blue?style=for-the-badge" alt="Watch Demo">
+  </a>
+</p>
 
 ---
 ## Features
