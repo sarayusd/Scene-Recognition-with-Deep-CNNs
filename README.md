@@ -4,11 +4,12 @@ An end-to-end PyTorch application for indoor scene classification on the MIT Ind
 
 ---
 
-## 🎥 Application Demo
+## Application Demo
 
-The demo shows the complete inference workflow: uploading an indoor scene image, running the trained PyTorch model, and displaying the top predicted scene categories with confidence scores.
-
-https://github.com/sarayusd/Scene-Recognition-with-Deep-CNNs/blob/main/tests/results/demo.mp4
+<p align="center">
+  <img src="tests/results/demo.gif" width="800">
+</p>
+*Watch the [full demo video](tests/results/demo.mp4) for the complete walkthrough.*
 
 ---
 ## Features
